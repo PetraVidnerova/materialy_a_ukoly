@@ -47,7 +47,7 @@ monitoru neneseme žádnou odpovědnost.
 	
 	Zkus odpovědět na následující otázky: 
 	
-	- **Otázky:**
+**Otázky:**
      + Jsi si svým odhadem jistá? Existuje více možností, jak by mohla
     krajina vypadat?
 	
@@ -87,4 +87,5 @@ monitoru neneseme žádnou odpovědnost.
    
    
 Těšíme se na Vás,
+
 Petra V. a Roman D. 

@@ -1,5 +1,5 @@
 # Domácí úkoly na ML hodinu 
-**povinné** 
+**Povinné** :)
 
 Ahoj všichni,
 

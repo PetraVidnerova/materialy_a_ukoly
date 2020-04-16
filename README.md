@@ -34,10 +34,19 @@ monitoru neneseme žádnou odpovědnost.
     prostoru, souřadnice je tedy pouze jedno číslo) a on pro tebe naměřil
     zeměpisnou výšku v těchto bodech. Naměřené body máš zobrazeny na staženém
     obrázku.
-	
+   	
 	Po naměření těchto bodů se zeměměřič rozhodl státi datovým analytikem,
     přihlásil se na kurz od PyLadies a s měřením definivně skončil.  Nás by
     ale zajímalo, jak by asi tak mohla celá krajina vypadat.
+	
+	Pokud nerozumíš staženému obrázku, podívej se na tento obrázek: 
+	 ![krajina-příklad](download/krajina-priklad.png) 
+	 
+	Na vodorovné ose máme souřadnici a na svislé ose nadmořskou výšku (ta může
+	být i záporná, hladina moře stoupla díky globálnímu oteplování).  Modré
+	body ukazují naměřené hodnoty ve vybraných bodech, nakreslená křivka
+	skutečnou krajinu (měření jsou v tomto případě přesná, v realitě to tak být
+	nemusí).
 	
 	 -  Vezmi si tužku a zkus si na výše uvedeném obrázku nakreslit krajinu tak, jak si ji dle daných měření představuješ. (Nejde nám o
     interpolaci! Není nutné, aby tvoje *čára* vedla přímo skrz dané

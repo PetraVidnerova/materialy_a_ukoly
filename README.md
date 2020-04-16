@@ -48,7 +48,7 @@ monitoru neneseme žádnou odpovědnost.
 	skutečnou krajinu (měření jsou v tomto případě přesná, v realitě to tak být
 	nemusí).
 	
-	 -  Vezmi si tužku a zkus si na výše uvedeném obrázku nakreslit krajinu tak, jak si ji dle daných měření představuješ. (Nejde nám o
+	 -  Vezmi si tužku a zkus si na staženém obrázku nakreslit krajinu tak, jak si ji dle daných měření představuješ. (Nejde nám o
     interpolaci! Není nutné, aby tvoje *čára* vedla přímo skrz dané
     body. Uvědom si, že měření mohou být zatížena chybou. Zeměměřič také měřil
     pouze v bodech, které jsi mu zadala (vybrala náhodně), nemusí to tedy být

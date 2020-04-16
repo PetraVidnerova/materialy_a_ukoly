@@ -56,25 +56,26 @@ monitoru neneseme žádnou odpovědnost.
 	
 	Zkus odpovědět na následující otázky: 
 	
-	- **Otázky:**
-     + Jsi si svým odhadem jistá? Existuje více možností, jak by mohla
+**Otázky:**
+
++ Jsi si svým odhadem jistá? Existuje více možností, jak by mohla
     krajina vypadat?
 	
-	 + Jak bys změřila (vyčíslila) kvalitu své schopnosti
++ Jak bys změřila (vyčíslila) kvalitu své schopnosti
     odhadovat neznámou krajinu?
 	
-	 + Pokud bys měla k dispozici dvě řešení, jak by se dalo určit, které  z
++ Pokud bys měla k dispozici dvě řešení, jak by se dalo určit, které  z
      nich krajinu vystihuje lépe? 
 
-    **NEZAPOMEŇ:**
-	- Negooglit, přemýšlet. Nehledat materiály na hodinu, řešení tam stejně
+**NEZAPOMEŇ:**
+- Negooglit, přemýšlet. Nehledat materiály na hodinu, řešení tam stejně
       není.
-    - Nejde o správnou odpověď, jde o to shromáždit co nejvíc nápadů, abychom
+- Nejde o správnou odpověď, jde o to shromáždit co nejvíc nápadů, abychom
       mohli na hodině správné řešení společně hledat. Špatná
       odpověď neexistuje!
-    - Chceme znát všechno, co tě napadne, i když ti to třeba bude připadat
+- Chceme znát všechno, co tě napadne, i když ti to třeba bude připadat
 	 jako hloupý nápad. 
-    - Pokud jsi v kontaktu s dalšími účastnicemi kurzu, nebojte se vymýšlet
+- Pokud jsi v kontaktu s dalšími účastnicemi kurzu, nebojte se vymýšlet
       společně. 
 	  
    Obrázek vyfoť a spolu s odpověďmi na otázky pošli na slacku do soukromé
@@ -96,4 +97,5 @@ monitoru neneseme žádnou odpovědnost.
    
    
 Těšíme se na Vás,
+
 Petra V. a Roman D. 

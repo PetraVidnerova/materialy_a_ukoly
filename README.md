@@ -11,9 +11,9 @@ Hodinu jsme připravovali tak, aby byla co nejvíce interaktivní. Proto jsme
 ji nechtěli (a stále nechceme) učit online. Není ale jiné cesty, tak nám pojďte
 pomoci.
 
-**Nechceme vám říkat, jak se věci mají dělat, chceme, abyste věděli co chcete
+**Nechceme vám říkat, jak se věci mají dělat, chceme, abyste věděli, co chcete
 dělat a proč. Proto je naším cílem donutit vás, abyste si správný postup
-vymysleli sami.** K tomu potřebujeme abyste se v hodině nebáli odpovídat na
+vymysleli sami.** K tomu potřebujeme, abyste se v hodině nebáli odpovídat na
 otázky, zapojovat do debaty a nebát se sdílet vaše nápady. Nebudeme přes video
 mít moc možností, jak vás k tomu donutit, tak se zkuste předem psychicky
 nachystat na to, že od vás budeme chtít slyšet vaše názory a řešení. Žádná

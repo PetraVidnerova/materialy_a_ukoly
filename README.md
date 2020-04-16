@@ -81,6 +81,10 @@ monitoru neneseme žádnou odpovědnost.
    Obrázek vyfoť a spolu s odpověďmi na otázky pošli na slacku do soukromé
    zprávy nebo na mail petra.vidnerova@gmail.com. Na začátku hodiny vaše nápady
    shrneme (nikdo nebude jmenován) a pobavíme se o nich. 
+
+- Nechápeš-li zadání, chyba není na tvé straně. Ozvi se na slacku nebo
+  mailem, dovysvětlíme.
+	  
 	  
 4. Obrázek nezahazuj, budeš ho v hodině ještě potřebovat! 
 

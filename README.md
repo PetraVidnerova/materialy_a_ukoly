@@ -36,7 +36,7 @@ monitoru neneseme žádnou odpovědnost.
     obrázku.
    	
 	Po naměření těchto bodů se zeměměřič rozhodl státi datovým analytikem,
-    přihlásil se na kurz od PyLadies a s měřením definivně skončil.  Nás by
+    přihlásil se na kurz od PyLadies a s měřením definitivně skončil.  Nás by
     ale zajímalo, jak by asi tak mohla celá krajina vypadat.
 	
 	Pokud nerozumíš staženému obrázku, podívej se na tento obrázek: 

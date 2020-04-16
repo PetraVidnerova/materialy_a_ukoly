@@ -22,7 +22,7 @@ odpověď není špatná, s čímkoli přijdete, bude plus. Nebojte se, úplně 
 
 A začneme domácími úkoly: 
 
-1. Stáhněte si toto [pdf](download/krajina.pdf) a pokud máte možnost vytiskněte. 
+1. Stáhněte si toto [PDF](download/krajina.pdf) a pokud máte možnost vytiskněte. 
 
 2. Před vyhlášením nouzového stavu jsme ještě stihli vyhlásit jeden domácí úkol
 a to opatřit si a ořezat pastelky. Teď máte za úkol je najít. 
